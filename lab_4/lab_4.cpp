@@ -166,7 +166,7 @@ int main(int argc, char* argv[])
                     cout << "Матрицу нельзя возвести в степень (она не квадратная)!" << endl;
                 }
                 else
-                    cout << "NO";
+                    cout << "NO" << endl;
 
                 continue;
             }
